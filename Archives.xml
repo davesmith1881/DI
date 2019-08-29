@@ -10,4 +10,7 @@
 <ContainObj>SBIP://METASERVER/Demos/Appalachian/Jobs/test dq functions(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/Appalachian/Jobs/test dq functions.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1567063694834" Description="" Name="First working version" PackageName="First working version.spk" UserID="sas@sukdhs" Version="445da02">
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Local CASUSER(Job)</ContainObj>
+</ArchInfo>
 </ROOT>

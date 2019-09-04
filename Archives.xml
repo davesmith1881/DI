@@ -13,4 +13,8 @@
 <ArchInfo Date="1567063694834" Description="" Name="First working version" PackageName="First working version.spk" UserID="sas@sukdhs" Version="445da02">
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Local CASUSER(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1567610947115" Description="" Name="Version 1" PackageName="Version 1.spk" UserID="sas@sukdhs" Version="4a1638f">
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Excel sheet to CAS(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Excel sheet to CAS.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

@@ -17,4 +17,8 @@
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Excel sheet to CAS(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Excel sheet to CAS.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1567682021345" Description="" Name="Load S3 v2" PackageName="Load S3 v2.spk" UserID="sas@sukdhs" Version="60fc61d">
+<ContainObj>SBIP://METASERVER/Demos/AWS/Load S3(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/AWS/Load S3.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

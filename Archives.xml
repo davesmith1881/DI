@@ -21,4 +21,8 @@
 <ContainObj>SBIP://METASERVER/Demos/AWS/Load S3(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/AWS/Load S3.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1568619674272" Description="" Name="Load S3 Updated Credential method" PackageName="Load S3 Updated Credential method.spk" UserID="sas@sukdhs" Version="cff0392">
+<ContainObj>SBIP://METASERVER/Demos/AWS/Load S3(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/AWS/Load S3.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

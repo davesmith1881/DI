@@ -33,4 +33,8 @@
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1568889517944" Description="Version with Note" Name="Load remote Excel to CAS" PackageName="Load remote Excel to CAS.spk" UserID="sas@sukdhs" Version="d3f4143">
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

@@ -29,4 +29,8 @@
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load SAS Data to POAC CASUSER(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load SAS Data to POAC CASUSER.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1568889348222" Description="" Name="Load remote Excel to CAS" PackageName="Load remote Excel to CAS.spk" UserID="sas@sukdhs" Version="d360256">
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

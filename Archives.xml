@@ -25,4 +25,8 @@
 <ContainObj>SBIP://METASERVER/Demos/AWS/Load S3(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/AWS/Load S3.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1568875614782" Description="" Name="Now called POAC" PackageName="Now called POAC.spk" UserID="sas@sukdhs" Version="ed62ee2">
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load SAS Data to POAC CASUSER(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/CAS/Load SAS Data to POAC CASUSER.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

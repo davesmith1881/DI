@@ -41,4 +41,8 @@
 <ContainObj>SBIP://METASERVER/Demos/Credit Risk/Apply Beacon Model(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/Credit Risk/Apply Beacon Model.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1585663096370" Description="" Name="tset archive" PackageName="tset archive.spk" UserID="sas@sukdhs" Version="d329099">
+<ContainObj>SBIP://METASERVER/Demos/Appalachian/Jobs/Compare Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/Appalachian/Jobs/Compare Tables.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>

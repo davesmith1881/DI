@@ -37,4 +37,8 @@
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Demos/CAS/Load Remote (9.4) Excel sheet to CAS.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1585644705784" Description="" Name="Beacon Model" PackageName="Beacon Model.spk" UserID="sas@sukdhs" Version="25e4651">
+<ContainObj>SBIP://METASERVER/Demos/Credit Risk/Apply Beacon Model(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Demos/Credit Risk/Apply Beacon Model.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
